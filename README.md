@@ -7,3 +7,9 @@ It's two way commnucation app between normal person and dumb or deaf person.
 1. We made AI model (CNN)
 2. We made an app in (REACT NATIVE)
 3. We made an api's in (FLASK)
+
+## Team Member
+1. ISHAN ATTRI
+2. HIMANSHU AGRAWAL
+3. AMAN SONI
+4. HARSIMRAN
